@@ -60,4 +60,4 @@ new Vue({
 
 ## 示例
 
-[示例文档]('./examples/README.md')
+[示例文档](examples/README.md)
