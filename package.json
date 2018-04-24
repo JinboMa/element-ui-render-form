@@ -4,7 +4,7 @@
   "description": "A component with element-ui for form.",
   "main": "./dist/element-ui-render-form.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "webpack --config ./build/webpack.config.js"
   },
   "keywords": [
     "element-ui",
